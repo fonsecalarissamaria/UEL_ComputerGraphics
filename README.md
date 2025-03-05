@@ -1,4 +1,4 @@
-# UEL Computer Graphics
+# UEL_ComputerGraphics
 
 Este repositório contém projetos desenvolvidos para a disciplina de **Computação Gráfica** na Universidade Estadual de Londrina (UEL). Os projetos utilizam **OpenGL** para criar diferentes animações e representações gráficas 2D e 3D.
 
