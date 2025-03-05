@@ -4,8 +4,6 @@ Este repositório contém projetos desenvolvidos para a disciplina de **Computa�
 
 ## Projetos
 
----
-
 ### 1. Roda-Gigante 3D
 - Simulação de uma roda-gigante em 3D utilizando **OpenGL e GLUT**.
 - Gira continuamente ao redor do eixo central.
