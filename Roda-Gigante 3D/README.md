@@ -3,7 +3,10 @@
 ## Descrição
 Este projeto implementa uma simulação de uma roda-gigante 3D utilizando a biblioteca OpenGL com GLUT. A roda-gigante gira continuamente e possui cadeirinhas coloridas, permitindo interação do usuário para alterar a velocidade de rotação e movimentar a câmera. Este trbalho foi desenvolvido como um projeto de computação gráfica utilizando OpenGL e GLUT.
 
-![Roda-Gigante 3D](print_roda-gigante.png)
+<p align="center">
+  <img src="print_roda-gigante.png" alt="Roda-Gigante 3D">
+</p>
+
 
 ## Funcionalidades
 - Renderização de uma roda-gigante tridimensional com cadeiras coloridas.
