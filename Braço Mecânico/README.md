@@ -1,4 +1,4 @@
-# Braço Mecânico 2D com GLFW
+# 🦾 Braço Mecânico 2D com GLFW
 
 <p align="center">
   <img src="print_braco.png" alt="Braço Mecânico">
